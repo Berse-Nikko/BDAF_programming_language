@@ -1,8 +1,9 @@
 # Introduction #
 
-`BDAG` is a mini Programming Language (Lexical and Syntax Analyzer)
+`BDAF` is a mini Programming Language (Lexical and Syntax Analyzer)
 
 # Instructions #
+
 ## LEXICAL ANALYZER
 
 1. Run LexicalAnalyzerV-3.0.exe
@@ -15,7 +16,7 @@
 
 1. Run BDAF_SYNTAX_ANALYZER_F.exe
 
-2.This file takes the SymbolTable.txt as input
+2. This file takes the SymbolTable.txt as input
 
 3. Output can be seen on the console
 
