@@ -4,7 +4,7 @@
 
 # Instructions #
 
-## LEXICAL ANALYZER
+### LEXICAL ANALYZER
 
 1. Run LexicalAnalyzerV-3.0.exe
 
@@ -12,7 +12,7 @@
 
 3. The output file is SymbolTable.txt
 
-## SYNTAX ANALYZER
+### SYNTAX ANALYZER
 
 1. Run BDAF_SYNTAX_ANALYZER_F.exe
 
